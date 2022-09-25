@@ -1,39 +1,39 @@
 /* 1 */
 {
     "_id" : 312456,
-    "EmployeeName" : "Joongki Song",
-    "EmployeeAge" : 28,
-    "JobRole" : "Store Manager",
+    "EmployeeName" : "Jesus Christ",
+    "EmployeeAge" : 21,
+    "JobRole" : "Messiah",
     "Salary" : 120000
 }
 /* 2 */
 {
     "_id" : 345342,
-    "EmployeeName" : "Joongkuk Jeon",
+    "EmployeeName" : "BumbleBee",
     "EmployeeAge" : 25,
-    "JobRole" : "Store Associate",
+    "JobRole" : "Delivery Car",
     "Salary" : 45000
 }
 /* 3 */
 {
     "_id" : 334566,
-    "EmployeeName" : "Jin Kim",
+    "EmployeeName" : "Kim Jong Un",
     "EmployeeAge" : 35,
-    "JobRole" : "Cashier",
+    "JobRole" : "Supreme Leader",
     "Salary" : 67500
 }
 /* 4 */
 {
     "_id" : 245345,
-    "EmployeeName" : "Hyekyo Song",
-    "EmployeeAge" : 40,
+    "EmployeeName" : "Suzy Bae",
+    "EmployeeAge" : 25,
     "JobRole" : "Senior Cashier",
     "Salary" : 72500
 }
 /* 5 */
 {
     "_id" : 445364,
-    "EmployeeName" : "Tae Hyung Kim",
+    "EmployeeName" : "Park Seo Joon",
     "EmployeeAge" : 22,
     "JobRole" : "Store Associate",
     "Salary" : 35000
